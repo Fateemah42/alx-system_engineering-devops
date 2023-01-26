@@ -1,1 +1,1 @@
-# to be updated
+loops condition and parsing
